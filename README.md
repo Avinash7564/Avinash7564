@@ -19,13 +19,15 @@
   <img src="https://img.shields.io/badge/Node-node-green" />
   <img src="https://img.shields.io/badge/express-Express-blueviolet" />
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
-</p>
+</p>    
 
 ## 🙋‍♂️ About Me 
 🌱 *I’m currently learning :* Data Structures & Algorithms 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me.Would be grateful. 
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me.
+Would be grateful. 
 💬 *Ask me about :* JavaScript, React, Redux 
-🥅 *2021 Goals:* Learning new things and contribute more 📫 You can reach me at
+🥅 *2021 Goals:* Learning new things and contribute more 
+📫 You can reach me at
 [chat](mailto:avinashkumarmbns@gmail.com) ## 🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -99,7 +101,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     width="150"
 /></a>
 
-
+<p align="center">
+  <a href="https://github.com/Avinash7564/github-readme-streak-stats">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="Avinash Kumar's streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash7564ind74&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Avinash7564/github-readme-stats"
@@ -149,3 +159,4 @@ consists of and doesn't reflect experience or skill level.
     src="https://img.shields.io/github/followers/Avinash7564?label=Followers&style=social"
     alt="GitHub Badge"
 /></a>
+
