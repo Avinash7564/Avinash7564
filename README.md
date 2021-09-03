@@ -101,15 +101,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     width="150"
 /></a>
 
-<p align="center">
-  <a href="https://github.com/Avinash7564/github-readme-streak-stats">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="Avinash Kumar's streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash7564ind74&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-    />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Avinash7564/github-readme-stats"
