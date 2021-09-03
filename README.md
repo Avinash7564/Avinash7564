@@ -21,10 +21,11 @@
   <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
 </p>
 
-## 🙋‍♂️ About Me 🌱 *I’m currently learning :* Data Structures & Algorithms 🤝 I’m
-looking for help with OpenSource Contributions. Ping me, if you can guide me.
-Would be grateful. 💬 *Ask me about :* JavaScript, React, Redux 🥅 *2021 Goals
-:* Learning new things and contribute more 📫 You can reach me at
+## 🙋‍♂️ About Me 
+🌱 *I’m currently learning :* Data Structures & Algorithms 
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me.Would be grateful. 
+💬 *Ask me about :* JavaScript, React, Redux 
+🥅 *2021 Goals:* Learning new things and contribute more 📫 You can reach me at
 [chat](mailto:avinashkumarmbns@gmail.com) ## 🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
