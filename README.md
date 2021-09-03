@@ -22,12 +22,11 @@
 </p>    
 
 ## 🙋‍♂️ About Me 
-🌱 *I’m currently learning :* Data Structures & Algorithms 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me.
-Would be grateful. 
-💬 *Ask me about :* JavaScript, React, Redux 
-🥅 *2021 Goals:* Learning new things and contribute more 
-📫 You can reach me at
+🌱 *I’m currently learning :* Data Structures & Algorithms <br/>
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me Would be grateful.  <br/>
+💬 *Ask me about :* JavaScript, React, Redux   <br/>
+🥅 *2021 Goals:* Learning new things and contribute more  <br/>
+📫 You can reach me at <br/>
 [chat](mailto:avinashkumarmbns@gmail.com) ## 🚀 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
