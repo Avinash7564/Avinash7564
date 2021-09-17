@@ -37,8 +37,7 @@
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+    target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
